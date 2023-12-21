@@ -1,6 +1,6 @@
 version: STSv1
 mode: testing
 max_age: 604800
-mx: *.googlemail.com
-mx: *.aspmx.l.google.com
-mx: aspmx.l.google.com
+mx: d231580.a.ess.uk.barracudanetworks.com
+mx: d231580.b.ess.uk.barracudanetworks.com
+mx: cardinalnewmanschool-co-uk.mail.protection.outlook.com
